@@ -1,0 +1,1871 @@
+{
+  "nhits": 3463,
+  "parameters": {
+    "dataset": "que-faire-a-paris-",
+    "timezone": "UTC",
+    "rows": 10,
+    "format": "json",
+    "facet": [
+      "category",
+      "tags",
+      "address_zipcode",
+      "address_city",
+      "pmr",
+      "blind",
+      "deaf",
+      "access_type",
+      "price_type"
+    ]
+  },
+  "records": [
+    {
+      "datasetid": "que-faire-a-paris-",
+      "recordid": "3c8727e424825c0633f6bd758ea2e695e855be81",
+      "fields": {
+        "blind": 0,
+        "pmr": 0,
+        "date_end": "2020-03-15T18:00:00+00:00",
+        "deaf": 0,
+        "updated_at": "2020-03-06T16:02:49+00:00",
+        "access_type": "libre",
+        "occurrences": "2020-03-12T18:00:00+01:00_2020-03-12T21:00:00+01:00;2020-03-13T10:00:00+01:00_2020-03-13T19:00:00+01:00;2020-03-14T10:00:00+01:00_2020-03-14T19:00:00+01:00;2020-03-15T10:00:00+01:00_2020-03-15T19:00:00+01:00",
+        "contact_name": "Association Terramicales",
+        "address_street": "15 rue Merlin",
+        "id": "103856",
+        "lat_lon": [
+          48.8604082,
+          2.3852871
+        ],
+        "category": "Expositions -> Design / Mode",
+        "title": "Festival de C\u00e9ramique Paris 11",
+        "cover_alt": "C\u00c9RAMIQUE",
+        "date_start": "2020-03-12T17:00:00+00:00",
+        "contact_url": "http://festivaldeceramique.com/",
+        "address_name": "Salle Olympe de Gouges",
+        "description": "<p>L\u2019\u00e9dition 2020\u2026 \u2026offre la vedette \u00e0 la diversit\u00e9 de l\u2019expression c\u00e9ramique. Qu\u2019elle soit emplie d\u2019humour color\u00e9 par les quatre mains de <b>Marie et Simon Bellego</b>,  les teintes fauves des sigill\u00e9es de  <b>Mathieu Casseau</b>, les d\u00e9licats \u00e9maux de <b>Charles Hair </b>ou encore foisonnant de d\u00e9tails tel les graals et autres sculptures de porcelaine de <b>Nolwen Bruneau</b>.</p><h4 class=\"\"><b>Au programme de l'\u00e9dition 2020 :</b></h4><p class=\"\">- 36 c\u00e9ramistes exposants dont 5 jeunes ateliers \u00e0 rencontrer, d\u00e9couvrir<br></p><p class=\"\">- carte blanche \u00e0 David Whitehead dans l'espace central du Festival<br></p><p class=\"\">- Samedi et dimanche : des ateliers de modelage pour les enfants<br></p><p class=\"\">- le caf\u00e9 Terramicales - un moment de convivialit\u00e9 dans de belles tasses</p>",
+        "contact_mail": "festivaldeceramique@yahoo.fr",
+        "lead_text": "36 c\u00e9ramistes \u00e0 d\u00e9couvrir \u00e0 Paris pendant 3 jours.\nL'occasion de d\u00e9couvrir toute la diversit\u00e9 de la c\u00e9ramique contemporaine et de faire l'acquisition de pi\u00e8ces uniques.",
+        "cover_url": "https://quefaire-api.paris.fr/images/62310",
+        "contact_facebook": "https://www.facebook.com/FestivaldeCeramique/",
+        "cover_credit": "Pixabay license CC",
+        "address_city": "Paris",
+        "price_type": "gratuit",
+        "cover": {
+          "mimetype": "image/jpeg",
+          "format": "JPEG",
+          "color_summary": [
+            "rgba(190, 168, 161, 1.00)",
+            "rgba(163, 152, 148, 1.00)",
+            "rgba(135, 135, 133, 1.00)"
+          ],
+          "filename": "62310.jpe",
+          "width": 960,
+          "id": "55e5e6eb5696504ad56fa1cde4ea50c5",
+          "height": 685,
+          "thumbnail": true
+        },
+        "url": "https://quefaire.paris.fr/103856/festival-de-ceramique-paris-11",
+        "date_description": "Du 12 au 15 mars 2020 : <br />jeudi de 18h \u00e0 21h<br />et vendredi, samedi, dimanche de 10h \u00e0 19h<br />",
+        "address_zipcode": "75011",
+        "transport": "2, 3 : P\u00e8re Lachaise (349m)\n2 : Philippe Auguste (436m)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3852871,
+          48.8604082
+        ]
+      },
+      "record_timestamp": "2020-03-14T05:00:23.959000+00:00"
+    },
+    {
+      "datasetid": "que-faire-a-paris-",
+      "recordid": "76ba5487b7a594f3b86944cad812841bb69c93a0",
+      "fields": {
+        "blind": 0,
+        "pmr": 0,
+        "date_end": "2020-03-26T23:00:00+00:00",
+        "deaf": 0,
+        "updated_at": "2020-03-06T15:33:48+00:00",
+        "access_type": "libre",
+        "occurrences": "2020-03-26T21:30:00+01:00_2020-03-27T00:00:00+01:00",
+        "contact_name": "Les Grands Voisins",
+        "address_street": "74, avenue Denfert-Rochereau",
+        "id": "103859",
+        "lat_lon": [
+          48.837285,
+          2.334821
+        ],
+        "category": "Concerts -> Soul / Funk",
+        "title": "Jam Culte #9 aux Grands Voisins",
+        "cover_alt": "Jam Culte #9 - Les Grands Voisins",
+        "date_start": "2020-03-26T20:30:00+00:00",
+        "contact_url": "https://lesgrandsvoisins.org/",
+        "address_name": "Les Grands Voisins",
+        "description": "<p>Le groupe <a href=\"https://www.facebook.com/cultefunk/\">Culte</a>&nbsp;ouvrira la soir\u00e9e avec un set funk \u00e0 tendance rouleau compresseur, avant de laisser une jam libre anim\u00e9e par les musiciens du groupe.</p><p>Amplis et clavier sur place. \u00c0 vous de jouer !</p><p class=\"\"><a href=\"https://www.facebook.com/events/529279777942690/\">Rejoignez l'\u00e9v\u00e9nement Facebook&nbsp;</a>!</p><p class=\"\"><br></p>",
+        "tags": "Solidaire;Musique",
+        "lead_text": "Culte revient aux Grands Voisins pour animer une jam groove mensuelle. Rendez-vous \u00e0 la Lingerie le jeudi 26 mars d\u00e8s 21h30 avec vos instruments ou votre voix !",
+        "cover_url": "https://quefaire-api.paris.fr/images/67877",
+        "contact_facebook": "https://www.facebook.com/lesgrandsvoisins/?epa=SEARCH_BOX",
+        "cover_credit": "Les Grands Voisins",
+        "address_city": "Paris",
+        "price_type": "gratuit",
+        "cover": {
+          "mimetype": "image/jpeg",
+          "format": "JPEG",
+          "color_summary": [
+            "rgba(176, 217, 166, 1.00)",
+            "rgba(194, 230, 176, 1.00)",
+            "rgba(173, 210, 162, 1.00)"
+          ],
+          "filename": "67877.jpe",
+          "width": 1200,
+          "id": "2e65a642a41962d1b35ef2f0dc961555",
+          "height": 630,
+          "thumbnail": true
+        },
+        "url": "https://quefaire.paris.fr/103859/jam-culte-9-aux-grands-voisins",
+        "date_description": "Le jeudi 26 mars 2020<br />de 21h30 \u00e0 0h<br />",
+        "address_zipcode": "75014",
+        "transport": "4, 6 : Raspail (338m)\n4, 6 : Denfert Rochereau (419m)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.334821,
+          48.837285
+        ]
+      },
+      "record_timestamp": "2020-03-14T05:00:23.959000+00:00"
+    },
+    {
+      "datasetid": "que-faire-a-paris-",
+      "recordid": "79d6a4182e597683f31bd037ecff6efdbe1eb776",
+      "fields": {
+        "blind": 1,
+        "pmr": 0,
+        "date_end": "2020-04-17T16:30:00+00:00",
+        "deaf": 0,
+        "updated_at": "2020-03-06T15:32:22+00:00",
+        "access_type": "reservation",
+        "occurrences": "2020-04-06T08:30:00+02:00_2020-04-06T18:30:00+02:00;2020-04-07T08:30:00+02:00_2020-04-07T18:30:00+02:00;2020-04-08T08:30:00+02:00_2020-04-08T18:30:00+02:00;2020-04-09T08:30:00+02:00_2020-04-09T18:30:00+02:00;2020-04-10T08:30:00+02:00_2020-04-10T18:30:00+02:00;2020-04-13T08:30:00+02:00_2020-04-13T18:30:00+02:00;2020-04-14T08:30:00+02:00_2020-04-14T18:30:00+02:00;2020-04-15T08:30:00+02:00_2020-04-15T18:30:00+02:00;2020-04-16T08:30:00+02:00_2020-04-16T18:30:00+02:00;2020-04-17T08:30:00+02:00_2020-04-17T18:30:00+02:00",
+        "contact_name": "Ateliers Amasco",
+        "address_street": "14-18 rue de la Tour des Dames",
+        "id": "100363",
+        "lat_lon": [
+          48.877969,
+          2.332765
+        ],
+        "category": "Animations -> Atelier / Cours",
+        "title": "Ateliers Amasco - Vacances de Printemps",
+        "date_start": "2020-04-06T06:30:00+00:00",
+        "price_detail": "La contribution est calcul\u00e9e en fonction du quotient familial du m\u00e9nage. La grille actuelle varie ainsi de 10 \u00e0 200\u20ac.",
+        "access_link": "https://www.amasco.fr",
+        "contact_url": "https://www.amasco.fr",
+        "address_name": "Centre Paris Anim' Nouvelle Ath\u00e8nes ex Tour des Dames",
+        "description": "<h4>Le concept</h4><p><i>Modules d\u2019une semaine d'ateliers ludiques</i> pendant les vacances scolaires dont l'objectif est de donner le go\u00fbt d'apprendre aux enfants, stimuler leurs capacit\u00e9s cognitives, et d\u00e9velopper leur intelligence \u00e9motionnelle ... <b>tout \u00e7a en s'amusant bien s\u00fbr</b>, c'est les vacances !</p><p>Le jeu est un excellent moyen pour permettre \u00e0 l'enfant d'apprendre, d'autant plus quand il s'agit d'enseignements habituellement difficiles \u00e0 transmettre comme les math\u00e9matiques, ou le fran\u00e7ais.</p><p>Les activit\u00e9s se font toujours en <b>petits groupes</b> (environ 6 enfants par animateur) et sont anim\u00e9s par des animateurs hautement qualifi\u00e9s (en Master d'\u00e9ducation, ou actuellement professeurs d'\u00e9cole).</p><p>Les ateliers s'adressent pour le moment uniquement \u00e0 des <b>enfants de 6 \u00e0 12 ans</b>.</p><h4>Des exemples d'activit\u00e9s ?</h4> <div class=\"component-video\"><div class=\"component-video-wrapper\"><iframe src=\"https://www.youtube.com/embed/wnDG3NnUDDQ?feature=oembed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"Amasco en 1min30, \u00e7a donne quoi ?\"></iframe></div></div> <h4>Les infos pratiques:</h4><p>o D\u00e9jeuner sur place (\u00e0 fournir)</p><p>o Activit\u00e9s de 9h30 \u00e0 17h, accueil de 8h30 \u00e0 18h30</p><p>o Lieux : dans les \u00e9coles &amp; salles communales</p><p><b>Contribution</b>: La contribution aux ateliers est calcul\u00e9e en fonction du quotient familial du m\u00e9nage. <br></p><p>Pour les enfants \u00e0 partir de 6 ans \u00e0 12 ans</p><p>Type de stage : Sport, Th\u00e9\u00e2tre, Musique, Nature, Scientifique, D\u00e9couverte-Eveil, Expression artistique (Peinture, Dessin, Sculpture, etc), Danse, Bien-\u00eatre / Relaxation, Lecture / \u00e9criture, Jeux de soci\u00e9t\u00e9</p>",
+        "tags": "Enfants",
+        "contact_mail": "ateliersamasco@gmail.com",
+        "access_mail": "ateliersamasco@gmail.com",
+        "lead_text": "Vous avez envie que vos enfants continuent d'\u00eatre stimul\u00e9s intellectuellement pendant les vacances scolaires ? \nVous avez envie qu'ils puissent s'\u00e9panouir en parall\u00e8le de l'\u00e9cole ? \nLes Ateliers Amasco sont faits pour vous (ou plut\u00f4t pour vos enfants !)",
+        "cover_url": "https://quefaire.paris.fr/images/idee-1.jpg",
+        "contact_facebook": "https://www.facebook.com/ateliersamasco/",
+        "access_phone": "0665913366",
+        "address_city": "Paris",
+        "price_type": "payant",
+        "cover": {
+          "mimetype": "image/jpeg",
+          "format": "JPEG",
+          "color_summary": [
+            "rgba(255, 138, 188, 1.00)",
+            "rgba(254, 146, 192, 1.00)",
+            "rgba(255, 138, 187, 1.00)"
+          ],
+          "filename": "idee-1.jpg",
+          "width": 720,
+          "id": "7e66c4704f50f225fbbec48af6cf06a9",
+          "height": 400,
+          "thumbnail": true
+        },
+        "url": "https://quefaire.paris.fr/100363/ateliers-amasco-vacances-de-fevrier",
+        "date_description": "Du 6 au 10 avril 2020 : <br />lundi, mardi, mercredi, jeudi, vendredi de 8h30 \u00e0 18h30<br />Du 13 au 17 avril 2020 : <br />lundi, mardi, mercredi, jeudi, vendredi de 8h30 \u00e0 18h30<br />",
+        "address_zipcode": "75009",
+        "transport": "12 : Trinit\u00e9 d'Estienne d'Orves (109m)\n3, 12, 13, 14 : Saint-Lazare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.332765,
+          48.877969
+        ]
+      },
+      "record_timestamp": "2020-03-14T05:00:23.959000+00:00"
+    },
+    {
+      "datasetid": "que-faire-a-paris-",
+      "recordid": "d2244efb8ca698902dc4c7b69d42820dffbe9a6b",
+      "fields": {
+        "blind": 1,
+        "pmr": 1,
+        "date_end": "2020-03-25T18:30:00+00:00",
+        "deaf": 0,
+        "updated_at": "2020-03-06T13:04:32+00:00",
+        "access_type": "libre",
+        "occurrences": "2020-03-25T18:00:00+01:00_2020-03-25T19:30:00+01:00",
+        "address_street": "29 / 35 rue des Haies",
+        "id": "103029",
+        "lat_lon": [
+          48.853322,
+          2.401071
+        ],
+        "category": "Spectacles -> Projection",
+        "title": "F\u00eate du court m\u00e9trage : regards de femmes",
+        "cover_alt": "Capture d'\u00e9cran du film Max",
+        "date_start": "2020-03-25T17:00:00+00:00",
+        "transport": "9 : Buzenval (147m)\n2 : Avron (342m)",
+        "address_name": "Biblioth\u00e8que Louise Michel",
+        "description": "<p class=\"\" style=\"\">Dans le cadre de la f\u00eate du court m\u00e9trage et de sa programmation autour des droits des femmes en mars, la biblioth\u00e8que vous propose une s\u00e9lection de 4 courts m\u00e9trages. <br></p><p class=\"\" style=\"\"><b>Quatre regards contemporains de r\u00e9alisatrices</b> qui soul\u00e8vent la question de la libert\u00e9 sexuelle, des violences faites aux femmes ou encore de la possibilit\u00e9 de s'\u00e9panouir dans son travail lorsque l'on est une femme... <br></p><p class=\"\" style=\"\">Quatre courts m\u00e9trages qui au-del\u00e0 de la fiction ne manqueront pas de nous questionner sur notre quotidien. La projection sera suivie d'un \u00e9change avec le public pour les personnes qui le souhaitent. <br></p><p class=\"\" style=\"\">Entr\u00e9e libre et gratuite, \u00e0 partir de 14 ans. <br></p>",
+        "tags": "Ados;Cin\u00e9ma;Biblioth\u00e8ques",
+        "lead_text": "Une s\u00e9lection de courts m\u00e9trages r\u00e9alis\u00e9s par des femmes, sur des femmes !",
+        "cover_url": "https://quefaire-api.paris.fr/images/67474",
+        "contact_facebook": "https://www.facebook.com/bibliothequelouisemichel/",
+        "cover_credit": "Max",
+        "address_city": "Paris",
+        "programs": "La F\u00eate du court m\u00e9trage 2020 (https://quefaire.paris.fr/9553/la-fete-du-court-metrage-dans-les-bibilotheques);Journ\u00e9e internationale de lutte pour les droits des Femmes (https://quefaire.paris.fr/3631/journee-internationale-des-droits-des-femmes)",
+        "price_type": "gratuit",
+        "cover": {
+          "mimetype": "image/jpeg",
+          "format": "JPEG",
+          "color_summary": [
+            "rgba(63, 52, 35, 1.00)",
+            "rgba(96, 72, 57, 1.00)",
+            "rgba(84, 75, 69, 1.00)"
+          ],
+          "filename": "67474.jpe",
+          "width": 676,
+          "id": "f902a7ac4a568b8335611b76b400826b",
+          "height": 380,
+          "thumbnail": true
+        },
+        "url": "https://quefaire.paris.fr/103029/fete-du-court-metrage-regards-de-femmes",
+        "date_description": "Le mercredi 25 mars 2020<br />de 18h \u00e0 19h30<br />",
+        "address_zipcode": "75020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.401071,
+          48.853322
+        ]
+      },
+      "record_timestamp": "2020-03-14T05:00:23.959000+00:00"
+    },
+    {
+      "datasetid": "que-faire-a-paris-",
+      "recordid": "a0bdb5f0d438eda93f042852704684af89058721",
+      "fields": {
+        "blind": 0,
+        "pmr": 0,
+        "date_end": "2020-04-21T21:55:00+00:00",
+        "deaf": 0,
+        "updated_at": "2020-03-06T12:25:15+00:00",
+        "access_type": "conseillee",
+        "occurrences": "2020-04-21T21:30:00+02:00_2020-04-21T23:55:00+02:00",
+        "address_street": "58 rue des Lombards",
+        "id": "103808",
+        "lat_lon": [
+          48.859756,
+          2.347889
+        ],
+        "category": "Concerts -> Jazz",
+        "title": "#Ev\u00e9nement MAGIC MALIK Jazz Association Quintet",
+        "cover_alt": "Magic Malik",
+        "date_start": "2020-04-21T19:30:00+00:00",
+        "price_detail": "TARIF PLEIN 25\u20ac\nTarif r\u00e9duit moins de 26 ans, \u00e9tudiants de conservatoire, demandeurs d'emploi = 10\u20ac en achat exclusif sur notre site",
+        "access_link": "https://lebaisersale.mapado.com/event/paris-75001/evenement-magic-malik",
+        "contact_url": "https://www.lebaisersale.com",
+        "address_name": "Le Baiser Sal\u00e9",
+        "contact_twitter": "https://www.twitter.com/lebaisersale",
+        "contact_phone": "0142333771",
+        "description": "<p><i><b>Magic Malik fl\u00fbte, Olivier Laisney trompette, Rob Clearfield piano, St\u00e9fano Lucchini batterie, Damien Varaillon cbasse </b></i></p><p>L'un des plus grands fl\u00fbtistes du jazz fran\u00e7ais, qui a parcouru toutes les sc\u00e8nes aussi bien en leader (Magic Malik Orchestra, en Duo avec Minino Garay...) qu'en invit\u00e9 (Julien Lourau, Steve Coleman, Asa, Hocus Pocus...), revient aux c\u00f4t\u00e9s des nouveaux talents du jazz fran\u00e7ais issus de divers horizons. </p><p>Wayne Shorter, Sonny Rollins, Clifford Brown\u2026 Pour la toute premi\u00e8re fois, Magic Malik s\u2019attelle au r\u00e9pertoire du jazz moderne !  \u00c0 la t\u00eate du Jazz Association qui compte notamment dans ses rangs le brillant trompettiste Olivier Laisney (Slugged, Oxyd, Gil Evans Paris Workshop\u2026), le pianiste am\u00e9ricain Rob Clearfield, improvisateur naturel qui a crois\u00e9 les routes de Marquis Hill, John Wetton ou encore Patricia Barber..., l\u2019inclassable fl\u00fbtiste joue cette musique qui l\u2019a nourri, sans nostalgie et sans redite, avec son humour, sa fantaisie rigoureuse et le souvenir d\u2019Eric Dolphy et Booker Little dans un coin de la t\u00eate.   </p><p>\u201cMagic Malik partage en toute d\u00e9contraction le r\u00e9pertoire des maestros qui l\u2019ont fait grandir vers les cimes\u201d, Culture Jazz </p><p>\u201cLe jazz selon Malik est tout sauf format\u00e9 et ne c\u00e8de \u00e0 aucun acad\u00e9misme\u201d, JazzMagazine</p><p class=\"\"><i>#FestivalLesCarib\u00e9ennesDeMai #15</i><br></p><p><a href=\"https://www.youtube.com/watch?v=hEZuBepTmZg\"><span data-auto-link=\"true\" data-href=\"https://www.youtube.com/watch?v=hEZuBepTmZg\">https://www.youtube.com/watch?v=hEZuBepTmZg</span></a> </p>",
+        "tags": "Musique",
+        "lead_text": "L'un des plus grands fl\u00fbtistes du jazz fran\u00e7ais, qui a parcouru toutes les sc\u00e8nes aussi bien en leader (Magic Malik Orchestra, en Duo avec Minino Garay...) qu'en invit\u00e9 (Julien Lourau, Steve Coleman, Asa, Hocus Pocus...), revient aux c\u00f4t\u00e9s des nouveaux talents du jazz fran\u00e7ais issus de divers horizons.\n\n#FestivalLesCarib\u00e9ennesDeMai #15",
+        "cover_url": "https://quefaire-api.paris.fr/images/67853",
+        "contact_facebook": "https://www.facebook.com/lebaisersale",
+        "access_phone": "0142333771",
+        "cover_credit": "DR",
+        "address_city": "Paris",
+        "price_type": "payant",
+        "cover": {
+          "mimetype": "image/jpeg",
+          "format": "JPEG",
+          "color_summary": [
+            "rgba(151, 83, 17, 1.00)",
+            "rgba(112, 53, 12, 1.00)",
+            "rgba(66, 30, 11, 1.00)"
+          ],
+          "filename": "67853.jpe",
+          "width": 1555,
+          "id": "e9c691958265d945c496a2abec3c696e",
+          "height": 622,
+          "thumbnail": true
+        },
+        "url": "https://quefaire.paris.fr/103808/evenement-magic-malik-jazz-association-quintet",
+        "date_description": "Le mardi 21 avril 2020<br />de 21h30 \u00e0 23h55<br />",
+        "address_zipcode": "75001",
+        "transport": "1, 4, 7, 11, 14 : Ch\u00e2telet (205m)\n4 : Les Halles (386m)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.347889,
+          48.859756
+        ]
+      },
+      "record_timestamp": "2020-03-14T05:00:23.959000+00:00"
+    },
+    {
+      "datasetid": "que-faire-a-paris-",
+      "recordid": "0d540e6740bb2f5a864c5a07ba0e9a5d637279bd",
+      "fields": {
+        "blind": 0,
+        "pmr": 0,
+        "date_end": "2020-04-05T03:00:00+00:00",
+        "deaf": 0,
+        "updated_at": "2020-03-04T10:29:32+00:00",
+        "access_type": "libre",
+        "occurrences": "2020-04-04T23:30:00+02:00_2020-04-05T05:00:00+02:00",
+        "contact_name": "L'international",
+        "address_street": "5/7 rue Moret",
+        "id": "103631",
+        "lat_lon": [
+          48.86681,
+          2.37987
+        ],
+        "category": "\u00c9v\u00e9nements -> Soir\u00e9e / Bal",
+        "title": "Rive Droite Records EBM session #4",
+        "date_start": "2020-04-04T21:30:00+00:00",
+        "price_detail": "Entr\u00e9e 6EUR",
+        "transport": "2 : M\u00e9nilmontant (229m)\n2 : Couronnes (257m)",
+        "address_name": "L'international",
+        "contact_phone": "0950576050",
+        "description": "<p>Rive Droite Records revient tourmenter le coeur de Paris en vous invitant \u00e0 vibrer \u00e0 L'INTERNATIONAL samedi 4 avril 2020 pour le quatri\u00e8me opus de ses soir\u00e9es full EBM.\u26a1\ufe0f\u26a1\ufe0fTout naturel pour le label que de revenir aux origines en vous remettant dans les oreilles l\u2019ADN de l\u2019indus.</p><p></p><p> RDR recrute ! Postez sur le mur de l'\u00e9v\u00e9nement votre set EBM, ceux qui auront le plus de mentions j'aime seront s\u00e9lectionn\u00e9s par notre jury pour se produire sur sc\u00e8ne lors de cette nouvelle soir\u00e9e </p><p></p><p>L\u2019esprit perdure et Rive Droite Records le prouve !\u270a\u270a RDR c\u2019est 8 sorties (vinyle et digital) ainsi qu'une quinzaine de teufs \u00e0 Paris mais aussi Nantes et Brest. Avec \u00e0 sa t\u00eate Thomas Delecroix, r\u00e9sident Newtrack &amp; Alternative Projects, le label promet encore de beaux projets pour porter haut et fort le flambeau du mouvement techno.</p><p></p><p>Le dernier album \"La Brasserie Clandestine\" qui r\u00e9unit 22 artistes dont : Nico Moreno, Vlaysin, Veta.M, KUSS, TOMAR, Dersee, Munsinger, Please Martine, LGML, ZPKF, Trunkline, Sinus O, Wlderz, Sina XX, Cuften... est en \u00e9coute / t\u00e9l\u00e9chargement ici : <a href=\"https://rivedroiterecords.bandcamp.com/\"><span data-auto-link=\"true\" data-href=\"https://rivedroiterecords.bandcamp.com/\">https://rivedroiterecords.bandcamp.com/</span></a></p><p></p>",
+        "tags": "Les Nuits",
+        "contact_mail": "cominter57@gmail.com",
+        "lead_text": "Soir\u00e9e full EBM \u00e0 l'inter avec le label Rive Droite Records !",
+        "cover_url": "https://pro.sowprog.com/downloads?name=img_event_82729588-1c18-455a-a837-1f3a4877ca3a.jpg",
+        "contact_facebook": "https://www.facebook.com/events/2536287999976475/",
+        "address_city": "Paris",
+        "price_type": "payant",
+        "cover": {
+          "mimetype": "image/jpeg",
+          "format": "JPEG",
+          "color_summary": [
+            "rgba(105, 105, 105, 1.00)",
+            "rgba(58, 58, 58, 1.00)",
+            "rgba(94, 94, 94, 1.00)"
+          ],
+          "filename": "downloads.jpe",
+          "width": 960,
+          "id": "67604abf0c8cf26ac6f71557db7380ff",
+          "height": 540,
+          "thumbnail": true
+        },
+        "url": "https://quefaire.paris.fr/103631/rive-droite-records-ebm-session-4",
+        "date_description": "Le samedi 4 avril 2020<br />de 23h30 \u00e0 5h<br />",
+        "address_zipcode": "75011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37987,
+          48.86681
+        ]
+      },
+      "record_timestamp": "2020-03-14T05:00:23.959000+00:00"
+    },
+    {
+      "datasetid": "que-faire-a-paris-",
+      "recordid": "5634c60cf60c01b32769014b054689952cd0583f",
+      "fields": {
+        "blind": 0,
+        "pmr": 0,
+        "date_end": "2020-07-04T21:59:00+00:00",
+        "deaf": 0,
+        "updated_at": "2020-03-04T10:14:46+00:00",
+        "access_type": "reservation",
+        "occurrences": "2020-07-04T21:00:00+02:00_2020-07-04T23:59:00+02:00",
+        "contact_name": "Philharmonie de Paris",
+        "address_street": "221 Avenue Jean Jaur\u00e8s",
+        "id": "103636",
+        "lat_lon": [
+          48.889174,
+          2.393614800000023
+        ],
+        "category": "Concerts -> \u00c9lectronique",
+        "title": "\u00a1mi\u00e9rcoles! St\u00e9phanie Janaina & Nicolas Jaar | Days Off 2020",
+        "date_start": "2020-07-04T19:00:00+00:00",
+        "price_detail": "Plein tarif 30EUR",
+        "access_link": "https://daysoff.fr",
+        "contact_url": "https://daysoff.fr",
+        "address_name": "Philharmonie de Paris",
+        "contact_twitter": "https://twitter.com/FestivalDaysOff",
+        "contact_phone": "+33144844484",
+        "description": "<p>Groupe d\u2019improvisation compos\u00e9 de la danseuse et chor\u00e9graphe mexicaine St\u00e9phanie Janaina et du musicien am\u00e9ricano-chilien Nicol\u00e1s Jaar, \u00a1mi\u00e9rcoles! propose au spectateur une performance immersive unique et intense.</p><p></p><p>A la diff\u00e9rence d\u2019un concert de Nicol\u00e1s Jaar, ce n\u2019est pas le public qui dansera lors de cette performance singuli\u00e8re, mais la danseuse St\u00e9phanie Janaina. Assis et entourant l\u2019artiste au plus pr\u00e8s, dans le cadre intime du Studio de la Philharmonie, les spectateurs sont plong\u00e9s dans une exp\u00e9rience physique et musicale, le temps d\u2019un coucher de soleil estival. Trois heures d\u2019une performance o\u00f9 tous les mouvements et sons produits sont improvis\u00e9s, en lien avec une publication cr\u00e9\u00e9e sp\u00e9cifiquement avant chaque spectacle par St\u00e9phanie et Nicol\u00e1s et distribu\u00e9e aux spectateurs. Comme une note de bas de page pour la performance, laquelle \u00e9claire \u00e0 son tour la publication. Textes et images sont compil\u00e9s et mis en page par un proche collaborateur, l\u2019artiste visuel Maziyar Pahlevan. \u00a1Mi\u00e9rcoles! c\u2019est \u00ab \u00a1mercredi! \u00bb en espagnol, initialement le seul jour o\u00f9 cette performance pouvait \u00eatre donn\u00e9e. Mais cela signifie \u00e9galement \u00ab \u00a1merde! \u00bb au Chili, comme une invitation \u00e0 contourner les r\u00e8gles. Ce sera donc un samedi \u00e0 Days Off.</p>",
+        "tags": "Musique",
+        "contact_mail": "contact@cite-musique.fr",
+        "lead_text": "Aventureux et ouvert d\u2019esprit, le festival Days Off, organis\u00e9 par la Philharmonie de Paris du 27 juin au 7 juillet, pr\u00e9sente une combinaison rafra\u00eechissante de propositions musicales d\u2019aujourd\u2019hui.",
+        "cover_url": "https://pro.sowprog.com/downloads?name=img_event_5ed97a61-b90e-4f10-a694-a5d46ae9e023.jpg",
+        "contact_facebook": "https://www.facebook.com/festivaldaysoff",
+        "address_city": "Paris",
+        "programs": "Days Off 2020 (https://quefaire.paris.fr/24267/days-off)",
+        "price_type": "payant",
+        "cover": {
+          "mimetype": "image/jpeg",
+          "format": "JPEG",
+          "color_summary": [
+            "rgba(251, 251, 251, 1.00)",
+            "rgba(251, 251, 251, 1.00)",
+            "rgba(254, 254, 254, 1.00)"
+          ],
+          "filename": "downloads.jpe",
+          "width": 1080,
+          "id": "47a272eecca635c1999b05c34c2ca7f6",
+          "height": 1080,
+          "thumbnail": true
+        },
+        "url": "https://quefaire.paris.fr/103636/miercoles-stephanie-janaina-nicolas-jaar-days-off-2020",
+        "date_description": "Le samedi 4 juillet 2020<br />de 21h \u00e0 23h59<br />",
+        "address_zipcode": "75019",
+        "transport": "5 : Porte de Pantin (119m)\n7 : Fort d'Aubervilliers (509m)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.393614800000023,
+          48.889174
+        ]
+      },
+      "record_timestamp": "2020-03-14T05:00:23.959000+00:00"
+    },
+    {
+      "datasetid": "que-faire-a-paris-",
+      "recordid": "40f6807a51ff774e35cacdf9299c9a242b6136c4",
+      "fields": {
+        "blind": 0,
+        "pmr": 0,
+        "date_end": "2020-05-30T13:30:00+00:00",
+        "deaf": 0,
+        "updated_at": "2020-03-03T16:16:33+00:00",
+        "access_type": "conseillee",
+        "occurrences": "2020-03-07T14:30:00+01:00_2020-03-07T15:30:00+01:00;2020-03-14T14:30:00+01:00_2020-03-14T15:30:00+01:00;2020-03-21T14:30:00+01:00_2020-03-21T15:30:00+01:00;2020-03-28T14:30:00+01:00_2020-03-28T15:30:00+01:00;2020-04-04T14:30:00+02:00_2020-04-04T15:30:00+02:00;2020-04-11T14:30:00+02:00_2020-04-11T15:30:00+02:00;2020-04-18T14:30:00+02:00_2020-04-18T15:30:00+02:00;2020-04-25T14:30:00+02:00_2020-04-25T15:30:00+02:00;2020-05-02T14:30:00+02:00_2020-05-02T15:30:00+02:00;2020-05-09T14:30:00+02:00_2020-05-09T15:30:00+02:00;2020-05-16T14:30:00+02:00_2020-05-16T15:30:00+02:00;2020-05-23T14:30:00+02:00_2020-05-23T15:30:00+02:00;2020-05-30T14:30:00+02:00_2020-05-30T15:30:00+02:00",
+        "contact_name": "Th\u00e9\u00e2tre de la Clart\u00e9",
+        "address_street": "74 avenue du g\u00e9n\u00e9ral Leclerc",
+        "id": "103608",
+        "lat_lon": [
+          48.831795942552915,
+          2.237322997634083
+        ],
+        "category": "Spectacles -> Jeune public",
+        "title": "Le Chat Bott\u00e9",
+        "cover_alt": "Le Chat Bott\u00e9",
+        "date_start": "2020-03-07T13:30:00+00:00",
+        "price_detail": "Adulte 12 \u20ac Enfant 8 \u20ac",
+        "access_link": "http://www.theatredelaclarte.com/spectacles/fiche_spectacle.cfm/235521_le_chat_botte.html",
+        "contact_url": "http://www.theatredelaclarte.com/spectacles/fiche_spectacle.cfm/235521_le_chat_botte.html",
+        "address_name": "Th\u00e9\u00e2tre de la Clart\u00e9",
+        "contact_phone": "0146051840",
+        "description": "<p>Ga\u00e9tan, fils du meunier Hubert se voit confier en h\u00e9ritage \u00e0 la mort de son p\u00e8re, un chat,</p><p>nomm\u00e9 Tristan\u2026</p><p>Imaginez sa surprise devant ce \u00ab cadeau inappropri\u00e9 \u00bb, il ne se doute pas que Tristan,</p><p>poss\u00e8de des qualit\u00e9s et des pouvoirs pour lui assurer, une vie de ch\u00e2teau, une existence de</p><p>prince\u2026</p><p>Notre chat aura bien des surprises avant de parvenir \u00e0 ses fins : sur sa route bien des</p><p>emb\u00fbches inattendues, des personnages venant d'autres contes, un m\u00e9chant ogre que</p><p>personne n'a jamais approch\u00e9 mais qui terrorise toute la population, jusqu\u2019au roi, qui</p><p>conna\u00eet son existence sans savoir o\u00f9 il se cache...</p><p>La ruse, la malice et l'intelligence vont aider notre chat, un peu hardi, pour r\u00e9ussir dans son</p><p>entreprise et faire le bonheur de son ma\u00eetre.</p><p>Information :</p><p>Genre : Conte</p><p>Compagnie : Le Vers Galant</p><p>Public : d\u00e8s 4 ans</p><p>Dur\u00e9e : 55 minutes</p><p>Auteur : Charles Perrault</p><p>Metteur en sc\u00e8ne : Sandrine Pocskai</p><p>Distribution : (en alternance) Serge Martinez ou J\u00e9r\u00f4me Tomray ; Oph\u00e9lie Montel ou Mathilde</p><p>Riey ou Aurore Saint-Martin ; Simon Boinnard ou Adrien James ou Nans Dissoubray ; Michel Dury</p><p>ou Jules Perez ou Antonio Labati ; Idriss ou Jean Philippe Robertella ou Norbert Haberlick</p><p>Le Th\u00e9\u00e2tre de la Clart\u00e9 pr\u00e9sente</p><p>LE CHAT BOTT\u00c9 au Th\u00e9\u00e2tre de la Clart\u00e9 :</p><p>Du samedi 7 mars 2020 au samedi 30 mai 2020</p><p>Tous les samedis \u00e0 14h30</p><p>Merci de r\u00e9server : 01 46 05 18 40</p>",
+        "tags": "En famille;Enfants",
+        "contact_mail": "info@theatredelaclarte.com",
+        "access_mail": "info@theatredelaclarte.com",
+        "lead_text": "Ga\u00e9tan, fils du meunier Hubert se voit confier en h\u00e9ritage \u00e0 la mort de son p\u00e8re, un chat,\nnomm\u00e9 Tristan\u2026",
+        "cover_url": "https://quefaire-api.paris.fr/images/67746",
+        "access_phone": "0146051840",
+        "cover_credit": "Le Vers Galant",
+        "address_city": "Boulogne Billancourt",
+        "price_type": "payant",
+        "cover": {
+          "mimetype": "image/png",
+          "format": "PNG",
+          "color_summary": [
+            "rgba(183, 64, 44, 1.00)",
+            "rgba(166, 105, 74, 1.00)",
+            "rgba(187, 99, 81, 1.00)"
+          ],
+          "filename": "67746.png",
+          "width": 501,
+          "id": "4d8456ba85eabdee3fe81a4bab7064a0",
+          "height": 619,
+          "thumbnail": true
+        },
+        "url": "https://quefaire.paris.fr/103608/le-chat-botte",
+        "date_description": "Du 7 mars au 30 mai 2020 : <br />samedi de 14h30 \u00e0 15h30<br />",
+        "address_zipcode": "92100",
+        "transport": "9 : Billancourt (54m)\n9 : Marcel Sembat (577m)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.237322997634083,
+          48.831795942552915
+        ]
+      },
+      "record_timestamp": "2020-03-14T05:00:23.959000+00:00"
+    },
+    {
+      "datasetid": "que-faire-a-paris-",
+      "recordid": "f6488b27e2a77bf6c24e6c8f4891f3dcb249e3fe",
+      "fields": {
+        "blind": 0,
+        "pmr": 1,
+        "date_end": "2020-03-24T21:00:00+00:00",
+        "deaf": 1,
+        "updated_at": "2020-03-03T16:14:30+00:00",
+        "access_type": "conseillee",
+        "occurrences": "2020-03-24T19:00:00+01:00_2020-03-24T22:00:00+01:00",
+        "contact_name": "Maison de la Vie Associative et Citoyenne du 9e",
+        "address_street": "54 rue Jean-Baptiste Pigalle",
+        "id": "103603",
+        "lat_lon": [
+          48.881041,
+          2.33602
+        ],
+        "category": "Animations -> Conf\u00e9rence / D\u00e9bat",
+        "title": "Financement solidaire",
+        "cover_alt": "pixabay",
+        "date_start": "2020-03-24T18:00:00+00:00",
+        "contact_url": "https://www.paris.fr/equipements/maison-de-la-vie-associative-et-citoyenne-du-9e-arrondissement-3276",
+        "address_name": "Maison de la Vie Associative et Citoyenne du 9e arrondissement",
+        "contact_twitter": "https://twitter.com/Mvac_9",
+        "contact_phone": "01 49 70 81 70",
+        "description": "<p>Un club CIGALES (Club d'Investisseurs pour la Gestion Alternative et Locale de l'Epargne Solidaire) est un club de financement citoyen qui investit dans de petites et moyennes entreprises, coop\u00e9ratives, associations de son quartier, de sa ville, de son d\u00e9partement ou de sa r\u00e9gion. Outre l'aide financi\u00e8re, les membres du club apportent leurs comp\u00e9tences, expertises et r\u00e9seaux. Il regroupe 5 \u00e0 20 personnes pour une p\u00e9riode de 5 ans renouvelable.</p><p>Comment financer solidaire ? Comment profiter de ce financement ? Rencontre et mode d'emploi en compagnie de HelloAsso et les Cigales.<br></p>",
+        "contact_mail": "maison.asso.09@paris.fr",
+        "access_mail": "maison.asso.09@paris.fr",
+        "lead_text": "Rencontre avec le club CIGALES et HelloAsso",
+        "cover_url": "https://quefaire-api.paris.fr/images/64333",
+        "contact_facebook": "https://www.facebook.com/MVAC9/",
+        "access_phone": "0149708170",
+        "cover_credit": "pixabay",
+        "address_city": "Paris",
+        "price_type": "gratuit",
+        "cover": {
+          "mimetype": "image/jpeg",
+          "format": "JPEG",
+          "color_summary": [
+            "rgba(228, 212, 136, 1.00)",
+            "rgba(179, 179, 99, 1.00)",
+            "rgba(159, 141, 92, 1.00)"
+          ],
+          "filename": "64333.jpe",
+          "width": 1920,
+          "id": "196d9341a0c7eb833f06fb0d0926b4fd",
+          "height": 1297,
+          "thumbnail": true
+        },
+        "url": "https://quefaire.paris.fr/103603/financement-solidaire",
+        "date_description": "Le mardi 24 mars 2020<br />de 19h \u00e0 22h<br />",
+        "address_zipcode": "75009",
+        "transport": "2, 12 : Pigalle (128m)\n12 : Saint-Georges (345m)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33602,
+          48.881041
+        ]
+      },
+      "record_timestamp": "2020-03-14T05:00:23.959000+00:00"
+    },
+    {
+      "datasetid": "que-faire-a-paris-",
+      "recordid": "6748ca878142de30c413acf72ff22de7991a1f1e",
+      "fields": {
+        "blind": 0,
+        "pmr": 0,
+        "date_end": "2020-04-18T21:00:00+00:00",
+        "deaf": 0,
+        "updated_at": "2020-03-03T13:14:16+00:00",
+        "access_type": "libre",
+        "occurrences": "2020-04-18T20:30:00+02:00_2020-04-18T23:00:00+02:00",
+        "contact_name": "L'Alimentation G\u00e9n\u00e9rale",
+        "address_street": "64 Rue Jean-Pierre Timbaud",
+        "id": "103566",
+        "lat_lon": [
+          48.8668,
+          2.37424
+        ],
+        "category": "Concerts -> Hip-Hop",
+        "title": "Dweamz // Erotic Market",
+        "date_start": "2020-04-18T18:30:00+00:00",
+        "price_detail": "5\u20ac",
+        "contact_url": "http://alimentation-generale.net/",
+        "address_name": "L'Alimentation G\u00e9n\u00e9rale",
+        "contact_phone": "0",
+        "description": "<p>DWEAMZ - \"Come Two\" New EP release Party</p><p>(Indie-Soul, Montreuil)</p><p></p><p>Ce soir on c\u00e9l\u00e8brera \u00ab Come Two \u00bb, second EP tout droit sorti du volcan des DWEAMZ. Coul\u00e9es de lave Soul, volutes de gaz psych\u00e9d\u00e9liques et pluies de cendres \u00e9lectroniques, le quintette de Montreuil poursuit son activit\u00e9 juch\u00e9 sur la faille sismique du choc des continents: Indie-Pop vs. Rn'B-Soul.</p><p></p><p>\"Dweamz is a band confident and talented enough to address real-world issues in their music without diminishing the sound or the message.\" Best Soul on Bandcamp - March 2019</p><p></p><p>\u2022 A VOIR/\u00c9COUTER</p> <div class=\"component-video\"><div class=\"component-video-wrapper\"><iframe src=\"https://www.youtube.com/embed/WXNMQQBP8Jw?feature=oembed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"DWEAMZ - Big Boy\"></iframe></div></div> <p class=\"\" style=\"\"></p><p class=\"\" style=\"\"><br></p><p></p><p>Apr\u00e8s 2 albums et 2 ep, voici Boredoms, le 3eme opus d\u2019Erotic  Market, aka Marine Pellegrini, en solo depuis 2016.</p><p>Queendoms cl\u00f4turait un cycle, celui de la prise de pouvoir. Boredoms ouvre celui de l\u2019apaisement et du d\u00e9pouillement. Avec l\u2019aide de King doudou \u00e0 la r\u00e9alisation et de Ramataupia aux visuels , Marine, auteure compositrice, d\u00e9livre un album tr\u00e8s lumineux o\u00f9 la m\u00e9lancolie fleurte avec la danse, comme l\u2019aveu joyeux que quelque chose est mort et quelque chose renait.</p><p></p><p>\"Erotic market a compos\u00e9 un album \u00e0 la gr\u00e2ce toxique, au minimalisme inqui\u00e9tant. Cette beaut\u00e9 bizarre, au groove terrible et magnifique, est un pur bijou de musique urbaine.\"</p>",
+        "tags": "Musique",
+        "contact_mail": "communication@alimentation-generale.net",
+        "lead_text": "Erotic market a compos\u00e9 un album \u00e0 la gr\u00e2ce toxique, au minimalisme inqui\u00e9tant. Cette beaut\u00e9 bizarre, au groove terrible et magnifique, est un pur bijou de musique urbaine.",
+        "cover_url": "https://pro.sowprog.com/downloads?name=img_event_2e034d7e-7249-4414-afa1-1b115a2455bc.png",
+        "contact_facebook": "https://www.facebook.com/lalimentation.generale",
+        "address_city": "Paris",
+        "price_type": "payant",
+        "cover": {
+          "mimetype": "image/png",
+          "format": "PNG",
+          "color_summary": [
+            "rgba(98, 98, 98, 1.00)",
+            "rgba(122, 122, 122, 1.00)",
+            "rgba(106, 106, 106, 1.00)"
+          ],
+          "filename": "downloads.png",
+          "width": 355,
+          "id": "88eb38fa0f0a2ac6d2f711ab97fb47c4",
+          "height": 250,
+          "thumbnail": true
+        },
+        "url": "https://quefaire.paris.fr/103566/dweamz-erotic-market",
+        "date_description": "Le samedi 18 avril 2020<br />de 20h30 \u00e0 23h<br />",
+        "address_zipcode": "75011",
+        "transport": "3 : Parmentier (207m)\n3 : Rue Saint-Maur (415m)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37424,
+          48.8668
+        ]
+      },
+      "record_timestamp": "2020-03-14T05:00:23.959000+00:00"
+    }
+  ],
+  "facet_groups": [
+    {
+      "facets": [
+        {
+          "count": 1175,
+          "path": "Animations ",
+          "state": "displayed",
+          "name": "Animations "
+        },
+        {
+          "count": 1174,
+          "path": "Concerts ",
+          "state": "displayed",
+          "name": "Concerts "
+        },
+        {
+          "count": 599,
+          "path": "Spectacles ",
+          "state": "displayed",
+          "name": "Spectacles "
+        },
+        {
+          "count": 258,
+          "path": "\u00c9v\u00e9nements ",
+          "state": "displayed",
+          "name": "\u00c9v\u00e9nements "
+        },
+        {
+          "count": 257,
+          "path": "Expositions ",
+          "state": "displayed",
+          "name": "Expositions "
+        }
+      ],
+      "name": "category"
+    },
+    {
+      "facets": [
+        {
+          "count": 3236,
+          "path": "0",
+          "state": "displayed",
+          "name": "0"
+        },
+        {
+          "count": 227,
+          "path": "1",
+          "state": "displayed",
+          "name": "1"
+        }
+      ],
+      "name": "blind"
+    },
+    {
+      "facets": [
+        {
+          "count": 3201,
+          "path": "Paris",
+          "state": "displayed",
+          "name": "Paris"
+        },
+        {
+          "count": 23,
+          "path": "IVRY SUR SEINE",
+          "state": "displayed",
+          "name": "IVRY SUR SEINE"
+        },
+        {
+          "count": 22,
+          "path": "Montreuil",
+          "state": "displayed",
+          "name": "Montreuil"
+        },
+        {
+          "count": 16,
+          "path": "Vanves",
+          "state": "displayed",
+          "name": "Vanves"
+        },
+        {
+          "count": 15,
+          "path": "Vitry-sur-Seine",
+          "state": "displayed",
+          "name": "Vitry-sur-Seine"
+        },
+        {
+          "count": 14,
+          "path": "Nanterre",
+          "state": "displayed",
+          "name": "Nanterre"
+        },
+        {
+          "count": 9,
+          "path": "Pantin",
+          "state": "displayed",
+          "name": "Pantin"
+        },
+        {
+          "count": 8,
+          "path": "Le Blanc-mesnil",
+          "state": "displayed",
+          "name": "Le Blanc-mesnil"
+        },
+        {
+          "count": 7,
+          "path": "Boulogne-Billancourt",
+          "state": "displayed",
+          "name": "Boulogne-Billancourt"
+        },
+        {
+          "count": 7,
+          "path": "Clichy-sous-Bois",
+          "state": "displayed",
+          "name": "Clichy-sous-Bois"
+        },
+        {
+          "count": 7,
+          "path": "Issy-les-Moulineaux",
+          "state": "displayed",
+          "name": "Issy-les-Moulineaux"
+        },
+        {
+          "count": 7,
+          "path": "Tremblay-en-France",
+          "state": "displayed",
+          "name": "Tremblay-en-France"
+        },
+        {
+          "count": 6,
+          "path": "Noisiel",
+          "state": "displayed",
+          "name": "Noisiel"
+        },
+        {
+          "count": 5,
+          "path": "Bobigny",
+          "state": "displayed",
+          "name": "Bobigny"
+        },
+        {
+          "count": 4,
+          "path": "La Courneuve",
+          "state": "displayed",
+          "name": "La Courneuve"
+        },
+        {
+          "count": 4,
+          "path": "Montrouge",
+          "state": "displayed",
+          "name": "Montrouge"
+        },
+        {
+          "count": 4,
+          "path": "noisiel",
+          "state": "displayed",
+          "name": "noisiel"
+        },
+        {
+          "count": 3,
+          "path": "Courbevoie",
+          "state": "displayed",
+          "name": "Courbevoie"
+        },
+        {
+          "count": 3,
+          "path": "Le Perreux-sur-Marne",
+          "state": "displayed",
+          "name": "Le Perreux-sur-Marne"
+        },
+        {
+          "count": 3,
+          "path": "Malakoff",
+          "state": "displayed",
+          "name": "Malakoff"
+        },
+        {
+          "count": 3,
+          "path": "Saint-Denis",
+          "state": "displayed",
+          "name": "Saint-Denis"
+        },
+        {
+          "count": 2,
+          "path": "Aubervilliers",
+          "state": "displayed",
+          "name": "Aubervilliers"
+        },
+        {
+          "count": 2,
+          "path": "Boulogne Billancourt",
+          "state": "displayed",
+          "name": "Boulogne Billancourt"
+        },
+        {
+          "count": 2,
+          "path": "LES LILAS",
+          "state": "displayed",
+          "name": "LES LILAS"
+        },
+        {
+          "count": 2,
+          "path": "La Plaine Saint-Denis",
+          "state": "displayed",
+          "name": "La Plaine Saint-Denis"
+        },
+        {
+          "count": 2,
+          "path": "Maisons-Alfort",
+          "state": "displayed",
+          "name": "Maisons-Alfort"
+        },
+        {
+          "count": 2,
+          "path": "Rambouillet",
+          "state": "displayed",
+          "name": "Rambouillet"
+        },
+        {
+          "count": 2,
+          "path": "Rungis",
+          "state": "displayed",
+          "name": "Rungis"
+        },
+        {
+          "count": 1,
+          "path": "APRIS",
+          "state": "displayed",
+          "name": "APRIS"
+        },
+        {
+          "count": 1,
+          "path": "Alfortville",
+          "state": "displayed",
+          "name": "Alfortville"
+        },
+        {
+          "count": 1,
+          "path": "Aulnay-sous-Bois",
+          "state": "displayed",
+          "name": "Aulnay-sous-Bois"
+        },
+        {
+          "count": 1,
+          "path": "Bagnolet",
+          "state": "displayed",
+          "name": "Bagnolet"
+        },
+        {
+          "count": 1,
+          "path": "Boissy-Saint-L\u00e9ger",
+          "state": "displayed",
+          "name": "Boissy-Saint-L\u00e9ger"
+        },
+        {
+          "count": 1,
+          "path": "Bondy",
+          "state": "displayed",
+          "name": "Bondy"
+        },
+        {
+          "count": 1,
+          "path": "Boulogne",
+          "state": "displayed",
+          "name": "Boulogne"
+        },
+        {
+          "count": 1,
+          "path": "Chantilly",
+          "state": "displayed",
+          "name": "Chantilly"
+        },
+        {
+          "count": 1,
+          "path": "Chaville",
+          "state": "displayed",
+          "name": "Chaville"
+        },
+        {
+          "count": 1,
+          "path": "Choisy le Roi",
+          "state": "displayed",
+          "name": "Choisy le Roi"
+        },
+        {
+          "count": 1,
+          "path": "Cr\u00e9teil",
+          "state": "displayed",
+          "name": "Cr\u00e9teil"
+        },
+        {
+          "count": 1,
+          "path": "Fontenay-sous-Bois",
+          "state": "displayed",
+          "name": "Fontenay-sous-Bois"
+        },
+        {
+          "count": 1,
+          "path": "Ivry-sur-Seine",
+          "state": "displayed",
+          "name": "Ivry-sur-Seine"
+        },
+        {
+          "count": 1,
+          "path": "Le Kremlin-BIc\u00eatre",
+          "state": "displayed",
+          "name": "Le Kremlin-BIc\u00eatre"
+        },
+        {
+          "count": 1,
+          "path": "Le Kremlin-Bic\u00eatre",
+          "state": "displayed",
+          "name": "Le Kremlin-Bic\u00eatre"
+        },
+        {
+          "count": 1,
+          "path": "Les Lilas",
+          "state": "displayed",
+          "name": "Les Lilas"
+        },
+        {
+          "count": 1,
+          "path": "Lognes",
+          "state": "displayed",
+          "name": "Lognes"
+        },
+        {
+          "count": 1,
+          "path": "MONTTEVRAIN",
+          "state": "displayed",
+          "name": "MONTTEVRAIN"
+        },
+        {
+          "count": 1,
+          "path": "Marolles-en-Brie",
+          "state": "displayed",
+          "name": "Marolles-en-Brie"
+        },
+        {
+          "count": 1,
+          "path": "Marseille",
+          "state": "displayed",
+          "name": "Marseille"
+        },
+        {
+          "count": 1,
+          "path": "Massy",
+          "state": "displayed",
+          "name": "Massy"
+        },
+        {
+          "count": 1,
+          "path": "Meudon",
+          "state": "displayed",
+          "name": "Meudon"
+        },
+        {
+          "count": 1,
+          "path": "Paris - 75020",
+          "state": "displayed",
+          "name": "Paris - 75020"
+        },
+        {
+          "count": 1,
+          "path": "Paris2e Arrondissement",
+          "state": "displayed",
+          "name": "Paris2e Arrondissement"
+        },
+        {
+          "count": 1,
+          "path": "Paris2\u00e8me",
+          "state": "displayed",
+          "name": "Paris2\u00e8me"
+        },
+        {
+          "count": 1,
+          "path": "Paris3",
+          "state": "displayed",
+          "name": "Paris3"
+        },
+        {
+          "count": 1,
+          "path": "Paris4e",
+          "state": "displayed",
+          "name": "Paris4e"
+        },
+        {
+          "count": 1,
+          "path": "Paris8E ARRONDISSEMENT",
+          "state": "displayed",
+          "name": "Paris8E ARRONDISSEMENT"
+        },
+        {
+          "count": 1,
+          "path": "Pierrefitte-sur-Seine",
+          "state": "displayed",
+          "name": "Pierrefitte-sur-Seine"
+        },
+        {
+          "count": 1,
+          "path": "Puteaux",
+          "state": "displayed",
+          "name": "Puteaux"
+        },
+        {
+          "count": 1,
+          "path": "ROSNY SOUS BOIS",
+          "state": "displayed",
+          "name": "ROSNY SOUS BOIS"
+        },
+        {
+          "count": 1,
+          "path": "ROSNY-SOUS-BOIS",
+          "state": "displayed",
+          "name": "ROSNY-SOUS-BOIS"
+        },
+        {
+          "count": 1,
+          "path": "Romainville",
+          "state": "displayed",
+          "name": "Romainville"
+        },
+        {
+          "count": 1,
+          "path": "Saint Germain en Laye",
+          "state": "displayed",
+          "name": "Saint Germain en Laye"
+        },
+        {
+          "count": 1,
+          "path": "Saint-Maur-des-Foss\u00e9s",
+          "state": "displayed",
+          "name": "Saint-Maur-des-Foss\u00e9s"
+        },
+        {
+          "count": 1,
+          "path": "Saint-Ouen",
+          "state": "displayed",
+          "name": "Saint-Ouen"
+        },
+        {
+          "count": 1,
+          "path": "Santeny",
+          "state": "displayed",
+          "name": "Santeny"
+        },
+        {
+          "count": 1,
+          "path": "Serris",
+          "state": "displayed",
+          "name": "Serris"
+        },
+        {
+          "count": 1,
+          "path": "Stains",
+          "state": "displayed",
+          "name": "Stains"
+        },
+        {
+          "count": 1,
+          "path": "Sucy-en-Brie",
+          "state": "displayed",
+          "name": "Sucy-en-Brie"
+        },
+        {
+          "count": 1,
+          "path": "Torcy",
+          "state": "displayed",
+          "name": "Torcy"
+        },
+        {
+          "count": 1,
+          "path": "VITRY SUR SEINE",
+          "state": "displayed",
+          "name": "VITRY SUR SEINE"
+        },
+        {
+          "count": 1,
+          "path": "Vaujours",
+          "state": "displayed",
+          "name": "Vaujours"
+        },
+        {
+          "count": 1,
+          "path": "Villepinte",
+          "state": "displayed",
+          "name": "Villepinte"
+        },
+        {
+          "count": 1,
+          "path": "Vincennes",
+          "state": "displayed",
+          "name": "Vincennes"
+        },
+        {
+          "count": 1,
+          "path": "\u00c9pinay-sur-Seine",
+          "state": "displayed",
+          "name": "\u00c9pinay-sur-Seine"
+        }
+      ],
+      "name": "address_city"
+    },
+    {
+      "facets": [
+        {
+          "count": 2724,
+          "path": "0",
+          "state": "displayed",
+          "name": "0"
+        },
+        {
+          "count": 739,
+          "path": "1",
+          "state": "displayed",
+          "name": "1"
+        }
+      ],
+      "name": "pmr"
+    },
+    {
+      "facets": [
+        {
+          "count": 1293,
+          "path": "Musique",
+          "state": "displayed",
+          "name": "Musique"
+        },
+        {
+          "count": 942,
+          "path": "En famille",
+          "state": "displayed",
+          "name": "En famille"
+        },
+        {
+          "count": 671,
+          "path": "Enfants",
+          "state": "displayed",
+          "name": "Enfants"
+        },
+        {
+          "count": 589,
+          "path": "Biblioth\u00e8ques",
+          "state": "displayed",
+          "name": "Biblioth\u00e8ques"
+        },
+        {
+          "count": 582,
+          "path": "Ados",
+          "state": "displayed",
+          "name": "Ados"
+        },
+        {
+          "count": 484,
+          "path": "Insolite",
+          "state": "displayed",
+          "name": "Insolite"
+        },
+        {
+          "count": 284,
+          "path": "Expos",
+          "state": "displayed",
+          "name": "Expos"
+        },
+        {
+          "count": 210,
+          "path": "Plein air",
+          "state": "displayed",
+          "name": "Plein air"
+        },
+        {
+          "count": 203,
+          "path": "Les Nuits",
+          "state": "displayed",
+          "name": "Les Nuits"
+        },
+        {
+          "count": 183,
+          "path": "Solidaire",
+          "state": "displayed",
+          "name": "Solidaire"
+        },
+        {
+          "count": 173,
+          "path": "Urbain",
+          "state": "displayed",
+          "name": "Urbain"
+        },
+        {
+          "count": 169,
+          "path": "Cin\u00e9ma",
+          "state": "displayed",
+          "name": "Cin\u00e9ma"
+        },
+        {
+          "count": 112,
+          "path": "Geek",
+          "state": "displayed",
+          "name": "Geek"
+        },
+        {
+          "count": 104,
+          "path": "Sport",
+          "state": "displayed",
+          "name": "Sport"
+        },
+        {
+          "count": 55,
+          "path": "Gourmand",
+          "state": "displayed",
+          "name": "Gourmand"
+        },
+        {
+          "count": 53,
+          "path": "V\u00e9g\u00e9talisons Paris",
+          "state": "displayed",
+          "name": "V\u00e9g\u00e9talisons Paris"
+        },
+        {
+          "count": 33,
+          "path": "Queer Lgbt",
+          "state": "displayed",
+          "name": "Queer Lgbt"
+        },
+        {
+          "count": 6,
+          "path": "No\u00ebl",
+          "state": "displayed",
+          "name": "No\u00ebl"
+        },
+        {
+          "count": 2,
+          "path": "English",
+          "state": "displayed",
+          "name": "English"
+        }
+      ],
+      "name": "tags"
+    },
+    {
+      "facets": [
+        {
+          "count": 2075,
+          "path": "payant",
+          "state": "displayed",
+          "name": "payant"
+        },
+        {
+          "count": 1357,
+          "path": "gratuit",
+          "state": "displayed",
+          "name": "gratuit"
+        },
+        {
+          "count": 21,
+          "path": "conso",
+          "state": "displayed",
+          "name": "conso"
+        }
+      ],
+      "name": "price_type"
+    },
+    {
+      "facets": [
+        {
+          "count": 3313,
+          "path": "0",
+          "state": "displayed",
+          "name": "0"
+        },
+        {
+          "count": 150,
+          "path": "1",
+          "state": "displayed",
+          "name": "1"
+        }
+      ],
+      "name": "deaf"
+    },
+    {
+      "facets": [
+        {
+          "count": 1654,
+          "path": "reservation",
+          "state": "displayed",
+          "name": "reservation"
+        },
+        {
+          "count": 1171,
+          "path": "libre",
+          "state": "displayed",
+          "name": "libre"
+        },
+        {
+          "count": 630,
+          "path": "conseillee",
+          "state": "displayed",
+          "name": "conseillee"
+        }
+      ],
+      "name": "access_type"
+    },
+    {
+      "facets": [
+        {
+          "count": 406,
+          "path": "75019",
+          "state": "displayed",
+          "name": "75019"
+        },
+        {
+          "count": 322,
+          "path": "75011",
+          "state": "displayed",
+          "name": "75011"
+        },
+        {
+          "count": 289,
+          "path": "75001",
+          "state": "displayed",
+          "name": "75001"
+        },
+        {
+          "count": 237,
+          "path": "75012",
+          "state": "displayed",
+          "name": "75012"
+        },
+        {
+          "count": 218,
+          "path": "75020",
+          "state": "displayed",
+          "name": "75020"
+        },
+        {
+          "count": 191,
+          "path": "75018",
+          "state": "displayed",
+          "name": "75018"
+        },
+        {
+          "count": 176,
+          "path": "75010",
+          "state": "displayed",
+          "name": "75010"
+        },
+        {
+          "count": 171,
+          "path": "75013",
+          "state": "displayed",
+          "name": "75013"
+        },
+        {
+          "count": 150,
+          "path": "75016",
+          "state": "displayed",
+          "name": "75016"
+        },
+        {
+          "count": 142,
+          "path": "75003",
+          "state": "displayed",
+          "name": "75003"
+        },
+        {
+          "count": 140,
+          "path": "75004",
+          "state": "displayed",
+          "name": "75004"
+        },
+        {
+          "count": 130,
+          "path": "75015",
+          "state": "displayed",
+          "name": "75015"
+        },
+        {
+          "count": 126,
+          "path": "75005",
+          "state": "displayed",
+          "name": "75005"
+        },
+        {
+          "count": 103,
+          "path": "75014",
+          "state": "displayed",
+          "name": "75014"
+        },
+        {
+          "count": 96,
+          "path": "75008",
+          "state": "displayed",
+          "name": "75008"
+        },
+        {
+          "count": 94,
+          "path": "75009",
+          "state": "displayed",
+          "name": "75009"
+        },
+        {
+          "count": 81,
+          "path": "75006",
+          "state": "displayed",
+          "name": "75006"
+        },
+        {
+          "count": 57,
+          "path": "75017",
+          "state": "displayed",
+          "name": "75017"
+        },
+        {
+          "count": 52,
+          "path": "75007",
+          "state": "displayed",
+          "name": "75007"
+        },
+        {
+          "count": 35,
+          "path": "75002",
+          "state": "displayed",
+          "name": "75002"
+        },
+        {
+          "count": 24,
+          "path": "93100",
+          "state": "displayed",
+          "name": "93100"
+        },
+        {
+          "count": 24,
+          "path": "94200",
+          "state": "displayed",
+          "name": "94200"
+        },
+        {
+          "count": 17,
+          "path": "94400",
+          "state": "displayed",
+          "name": "94400"
+        },
+        {
+          "count": 16,
+          "path": "92170",
+          "state": "displayed",
+          "name": "92170"
+        },
+        {
+          "count": 13,
+          "path": "92000",
+          "state": "displayed",
+          "name": "92000"
+        },
+        {
+          "count": 10,
+          "path": "77186",
+          "state": "displayed",
+          "name": "77186"
+        },
+        {
+          "count": 10,
+          "path": "92100",
+          "state": "displayed",
+          "name": "92100"
+        },
+        {
+          "count": 9,
+          "path": "93500",
+          "state": "displayed",
+          "name": "93500"
+        },
+        {
+          "count": 8,
+          "path": "93150",
+          "state": "displayed",
+          "name": "93150"
+        },
+        {
+          "count": 7,
+          "path": "75000",
+          "state": "displayed",
+          "name": "75000"
+        },
+        {
+          "count": 7,
+          "path": "92130",
+          "state": "displayed",
+          "name": "92130"
+        },
+        {
+          "count": 7,
+          "path": "93290",
+          "state": "displayed",
+          "name": "93290"
+        },
+        {
+          "count": 7,
+          "path": "93390",
+          "state": "displayed",
+          "name": "93390"
+        },
+        {
+          "count": 6,
+          "path": "93000",
+          "state": "displayed",
+          "name": "93000"
+        },
+        {
+          "count": 4,
+          "path": "75116",
+          "state": "displayed",
+          "name": "75116"
+        },
+        {
+          "count": 4,
+          "path": "92120",
+          "state": "displayed",
+          "name": "92120"
+        },
+        {
+          "count": 4,
+          "path": "93120",
+          "state": "displayed",
+          "name": "93120"
+        },
+        {
+          "count": 4,
+          "path": "94300",
+          "state": "displayed",
+          "name": "94300"
+        },
+        {
+          "count": 3,
+          "path": "92240",
+          "state": "displayed",
+          "name": "92240"
+        },
+        {
+          "count": 3,
+          "path": "92400",
+          "state": "displayed",
+          "name": "92400"
+        },
+        {
+          "count": 3,
+          "path": "93200",
+          "state": "displayed",
+          "name": "93200"
+        },
+        {
+          "count": 3,
+          "path": "93260",
+          "state": "displayed",
+          "name": "93260"
+        },
+        {
+          "count": 3,
+          "path": "94170",
+          "state": "displayed",
+          "name": "94170"
+        },
+        {
+          "count": 2,
+          "path": "78120",
+          "state": "displayed",
+          "name": "78120"
+        },
+        {
+          "count": 2,
+          "path": "93110",
+          "state": "displayed",
+          "name": "93110"
+        },
+        {
+          "count": 2,
+          "path": "93210",
+          "state": "displayed",
+          "name": "93210"
+        },
+        {
+          "count": 2,
+          "path": "93300",
+          "state": "displayed",
+          "name": "93300"
+        },
+        {
+          "count": 2,
+          "path": "94270",
+          "state": "displayed",
+          "name": "94270"
+        },
+        {
+          "count": 2,
+          "path": "94440",
+          "state": "displayed",
+          "name": "94440"
+        },
+        {
+          "count": 2,
+          "path": "94700",
+          "state": "displayed",
+          "name": "94700"
+        },
+        {
+          "count": 1,
+          "path": "13003",
+          "state": "displayed",
+          "name": "13003"
+        },
+        {
+          "count": 1,
+          "path": "60500",
+          "state": "displayed",
+          "name": "60500"
+        },
+        {
+          "count": 1,
+          "path": "72002",
+          "state": "displayed",
+          "name": "72002"
+        },
+        {
+          "count": 1,
+          "path": "72006",
+          "state": "displayed",
+          "name": "72006"
+        },
+        {
+          "count": 1,
+          "path": "75186",
+          "state": "displayed",
+          "name": "75186"
+        },
+        {
+          "count": 1,
+          "path": "77144",
+          "state": "displayed",
+          "name": "77144"
+        },
+        {
+          "count": 1,
+          "path": "77185",
+          "state": "displayed",
+          "name": "77185"
+        },
+        {
+          "count": 1,
+          "path": "77200",
+          "state": "displayed",
+          "name": "77200"
+        },
+        {
+          "count": 1,
+          "path": "77700",
+          "state": "displayed",
+          "name": "77700"
+        },
+        {
+          "count": 1,
+          "path": "78100",
+          "state": "displayed",
+          "name": "78100"
+        },
+        {
+          "count": 1,
+          "path": "91300",
+          "state": "displayed",
+          "name": "91300"
+        },
+        {
+          "count": 1,
+          "path": "92044",
+          "state": "displayed",
+          "name": "92044"
+        },
+        {
+          "count": 1,
+          "path": "92190",
+          "state": "displayed",
+          "name": "92190"
+        },
+        {
+          "count": 1,
+          "path": "92370",
+          "state": "displayed",
+          "name": "92370"
+        },
+        {
+          "count": 1,
+          "path": "92800",
+          "state": "displayed",
+          "name": "92800"
+        },
+        {
+          "count": 1,
+          "path": "93140",
+          "state": "displayed",
+          "name": "93140"
+        },
+        {
+          "count": 1,
+          "path": "93170",
+          "state": "displayed",
+          "name": "93170"
+        },
+        {
+          "count": 1,
+          "path": "93230",
+          "state": "displayed",
+          "name": "93230"
+        },
+        {
+          "count": 1,
+          "path": "93240",
+          "state": "displayed",
+          "name": "93240"
+        },
+        {
+          "count": 1,
+          "path": "93380",
+          "state": "displayed",
+          "name": "93380"
+        },
+        {
+          "count": 1,
+          "path": "93400",
+          "state": "displayed",
+          "name": "93400"
+        },
+        {
+          "count": 1,
+          "path": "93410",
+          "state": "displayed",
+          "name": "93410"
+        },
+        {
+          "count": 1,
+          "path": "93420",
+          "state": "displayed",
+          "name": "93420"
+        },
+        {
+          "count": 1,
+          "path": "93600",
+          "state": "displayed",
+          "name": "93600"
+        },
+        {
+          "count": 1,
+          "path": "93800",
+          "state": "displayed",
+          "name": "93800"
+        },
+        {
+          "count": 1,
+          "path": "94000",
+          "state": "displayed",
+          "name": "94000"
+        },
+        {
+          "count": 1,
+          "path": "94100",
+          "state": "displayed",
+          "name": "94100"
+        },
+        {
+          "count": 1,
+          "path": "94120",
+          "state": "displayed",
+          "name": "94120"
+        },
+        {
+          "count": 1,
+          "path": "94130",
+          "state": "displayed",
+          "name": "94130"
+        },
+        {
+          "count": 1,
+          "path": "94140",
+          "state": "displayed",
+          "name": "94140"
+        },
+        {
+          "count": 1,
+          "path": "94150",
+          "state": "displayed",
+          "name": "94150"
+        },
+        {
+          "count": 1,
+          "path": "94152",
+          "state": "displayed",
+          "name": "94152"
+        },
+        {
+          "count": 1,
+          "path": "94340",
+          "state": "displayed",
+          "name": "94340"
+        },
+        {
+          "count": 1,
+          "path": "94370",
+          "state": "displayed",
+          "name": "94370"
+        },
+        {
+          "count": 1,
+          "path": "94430",
+          "state": "displayed",
+          "name": "94430"
+        },
+        {
+          "count": 1,
+          "path": "94470",
+          "state": "displayed",
+          "name": "94470"
+        },
+        {
+          "count": 1,
+          "path": "94600",
+          "state": "displayed",
+          "name": "94600"
+        }
+      ],
+      "name": "address_zipcode"
+    }
+  ]
+}
