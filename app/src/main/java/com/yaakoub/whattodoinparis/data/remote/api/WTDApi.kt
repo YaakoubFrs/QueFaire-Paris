@@ -6,7 +6,7 @@ import retrofit2.http.GET
 
 interface WTDApi {
 
-    @GET("search/?dataset=que-faire-a-paris-&facet=category&facet=tags&facet=address_zipcode&facet=address_city&facet=pmr&facet=blind&facet=deaf&facet=access_type&facet=price_type")
+    @GET("search/?dataset=que-faire-a-paris-")
     fun getAll():Deferred<WTDResponse>
 
 }

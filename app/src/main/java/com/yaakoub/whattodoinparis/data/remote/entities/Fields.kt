@@ -1,6 +1,7 @@
 package com.yaakoub.whattodoinparis.data.remote.entities
 
 data class Fields(
+    val access_link: String,
     val access_type: String,
     val address_city: String,
     val address_name: String,
@@ -12,7 +13,6 @@ data class Fields(
     val contact_mail: String,
     val contact_name: String,
     val contact_phone: String,
-    val contact_url: String,
     val cover: Cover,
     val cover_url: String,
     val date_description: String,
