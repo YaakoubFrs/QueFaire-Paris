@@ -1,6 +1,6 @@
-package com.yaakoub.whattodoinparis.data.remote.entities
+package com.yaakoub.whattodoinparis.data.local.entities
 
-data class Facet(
+data class FacetEntity(
     val count: Int,
     val name: String,
     val path: String,

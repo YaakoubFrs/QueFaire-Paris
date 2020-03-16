@@ -1,3 +1,5 @@
+package com.yaakoub.whattodoinparis.data.remote.entities
+
 data class Record(
     val datasetid: String,
     val fields: Fields,

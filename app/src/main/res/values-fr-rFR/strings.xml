@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Que faire à Paris</string>
+
+    <string name="my_fav_title">Mon favori</string>
+    <string name="place_list_title">Liste des places</string>
+
+</resources>

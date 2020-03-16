@@ -1,6 +1,6 @@
 package com.yaakoub.whattodoinparis.data.remote.api
 
-import WTDResponse
+import com.yaakoub.whattodoinparis.data.remote.entities.WTDResponse
 import kotlinx.coroutines.Deferred
 import retrofit2.http.GET
 

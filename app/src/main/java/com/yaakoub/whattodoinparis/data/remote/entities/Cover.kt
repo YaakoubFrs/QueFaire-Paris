@@ -1,3 +1,5 @@
+package com.yaakoub.whattodoinparis.data.remote.entities
+
 data class Cover(
     val color_summary: List<String>,
     val filename: String,

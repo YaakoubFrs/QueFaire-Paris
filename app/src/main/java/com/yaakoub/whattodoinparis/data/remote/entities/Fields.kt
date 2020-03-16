@@ -1,3 +1,5 @@
+package com.yaakoub.whattodoinparis.data.remote.entities
+
 data class Fields(
     val access_type: String,
     val address_city: String,

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">What to do in Paris</string>
+
+    <string name="my_fav_title">My favorite</string>
+    <string name="place_list_title">Place list</string>
+
 </resources>

@@ -1,8 +1,12 @@
+package com.yaakoub.whattodoinparis.data.local.entities
+
+import androidx.room.Embedded
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 
-@Entity(tableName = "what_to_do_in_paris")
+@Entity(tableName = "place_table")
 data class WTDEntity(
-    @PrimaryKey val nhits: Int,
-    val parameters: Parameters
+    @PrimaryKey val nHits: Int,
+    @Embedded(prefix = "params_")
+    val parameters: ParameterEntity
 )
